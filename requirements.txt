@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+pillow
+openai
+streamlit-folium
+folium
+pytz
